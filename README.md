@@ -2,7 +2,7 @@
 
 AI & Software Engineer focused on intelligent systems, knowledge graphs, and full-stack web applications.
 
-Currently pursuing a Master's degree in Computer Science and Information Technologies while working on AI-driven research and government collaboration projects involving NLP, graph analytics, and machine learning systems.
+Currently pursuing a Master's degree in Computer Science and Information Technologies while working on frontend development, AI-driven research and government collaboration projects involving NLP, graph analytics, and machine learning systems.
 
 ---
 
@@ -17,4 +17,4 @@ Currently pursuing a Master's degree in Computer Science and Information Technol
 # Contact
 
 - LinkedIn: www.linkedin.com/in/lea-roj/
-- Email: rojlea@gmail.com
+- Email: learoj.work@gmail.com
